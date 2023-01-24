@@ -1,8 +1,3 @@
-### Available Shopware 6 Page Events
-#### The events can be found in your vendor directory
-```bash
-vendor/shopware/core/Content/ContentName/...Event.php
-```
 ### Additional information about .htaccess
 #### Location of the .htaccess and password file
 ```bash 
