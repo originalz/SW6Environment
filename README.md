@@ -1,4 +1,5 @@
-### Additional information about .htaccess
+## Shopware 6 General Information
+### .htaccess
 #### Location of the .htaccess and password file
 ```bash 
 shopware_root/public
@@ -7,5 +8,5 @@ shopware_root/public
 ```bash
 satisfy Any
 ```
-### Additional information about messagequeues
+### MessageQueue
 The table "dead_message" denies some tasks in the messagequeue to get scheduled. You have to remove the dead message and reset the task manually to scheduled again.
