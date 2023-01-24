@@ -1,4 +1,4 @@
-## Shopware 6 General Information
+## Shopware 6 Environment
 ### .htaccess
 #### Location of the .htaccess and password file
 ```bash 
