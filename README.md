@@ -23,3 +23,6 @@ echo 'PATH=$HOME/bin:$PATH' >> ~/.bash_profile
 ```bash
 source ~/.bash_profile
 ```
+### Plugin Snippets
+If you want to add or change snippets in your plugin, you simply have to edit the snippet json file in ```plugin/src/Resources/snippet/de_DE```.
+If you added new snippets or changed some, you have to execute ```bin/console plugin:update pluginname --clearCache``` and ```bin/console theme:compile```
